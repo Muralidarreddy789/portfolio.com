@@ -31,6 +31,7 @@ margin-bottom: 20px;
 {
     display: flex;
     align-items: flex-start;
+    flex-wrap:wrap;
     background-image: url(photo.png);
     background-repeat: no-repeat;
     background-size: 260px 600px;
@@ -72,6 +73,7 @@ hr
     margin: 150px 0 150px 0;
     display: flex;
     align-items: flex-start;
+    flex-wrap:wrap;
     justify-content: space-around;
     flex-wrap: wrap;
     gap:20px;
@@ -94,6 +96,7 @@ hr
   .progress-bar-1 {
     display: flex;
     align-items: center;
+    flex-wrap:wrap;
     justify-content: center;
     width: 150px;
     height: 150px;
@@ -110,6 +113,7 @@ hr
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-wrap:wrap;
     width: 150px;
     height: 150px;
     border-radius: 50%;
@@ -130,6 +134,7 @@ hr
     margin-top: 80px;
     display: flex;
     align-items: flex-start;
+    flex-wrap:wrap;
     justify-content: space-around;
   }
   .coder,.Developer,.Freelancer
