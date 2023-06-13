@@ -75,7 +75,6 @@ hr
     align-items: flex-start;
     flex-wrap:wrap;
     justify-content: space-around;
-    flex-wrap: wrap;
     gap:20px;
 }
 .progress-bar {
@@ -96,7 +95,6 @@ hr
   .progress-bar-1 {
     display: flex;
     align-items: center;
-    flex-wrap:wrap;
     justify-content: center;
     width: 150px;
     height: 150px;
